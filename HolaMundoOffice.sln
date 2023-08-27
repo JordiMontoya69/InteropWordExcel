@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolaMundoOffice", "HolaMundoOffice\HolaMundoOffice.csproj", "{3BF490E7-A937-4E71-A902-641D4D65353B}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "HolaMundoOfficeVB", "HolaMundoOfficeVB\HolaMundoOfficeVB.vbproj", "{722878A2-4139-4324-9932-900BAA7FB78E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BF490E7-A937-4E71-A902-641D4D65353B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BF490E7-A937-4E71-A902-641D4D65353B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BF490E7-A937-4E71-A902-641D4D65353B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BF490E7-A937-4E71-A902-641D4D65353B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{722878A2-4139-4324-9932-900BAA7FB78E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{722878A2-4139-4324-9932-900BAA7FB78E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{722878A2-4139-4324-9932-900BAA7FB78E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{722878A2-4139-4324-9932-900BAA7FB78E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30960E10-1C11-4EE3-8152-A53CC6926FAB}
+	EndGlobalSection
+EndGlobal

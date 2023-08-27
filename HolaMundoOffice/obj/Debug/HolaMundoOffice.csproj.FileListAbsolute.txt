@@ -1,0 +1,10 @@
+C:\Users\52866\Desktop\HolaMundoOffice\HolaMundoOffice\bin\Debug\HolaMundoOffice.exe.config
+C:\Users\52866\Desktop\HolaMundoOffice\HolaMundoOffice\bin\Debug\HolaMundoOffice.exe
+C:\Users\52866\Desktop\HolaMundoOffice\HolaMundoOffice\bin\Debug\HolaMundoOffice.pdb
+C:\Users\52866\Desktop\HolaMundoOffice\HolaMundoOffice\obj\Debug\HolaMundoOffice.csprojAssemblyReference.cache
+C:\Users\52866\Desktop\HolaMundoOffice\HolaMundoOffice\obj\Debug\HolaMundoOffice.Form1.resources
+C:\Users\52866\Desktop\HolaMundoOffice\HolaMundoOffice\obj\Debug\HolaMundoOffice.Properties.Resources.resources
+C:\Users\52866\Desktop\HolaMundoOffice\HolaMundoOffice\obj\Debug\HolaMundoOffice.csproj.GenerateResource.cache
+C:\Users\52866\Desktop\HolaMundoOffice\HolaMundoOffice\obj\Debug\HolaMundoOffice.csproj.CoreCompileInputs.cache
+C:\Users\52866\Desktop\HolaMundoOffice\HolaMundoOffice\obj\Debug\HolaMundoOffice.exe
+C:\Users\52866\Desktop\HolaMundoOffice\HolaMundoOffice\obj\Debug\HolaMundoOffice.pdb
